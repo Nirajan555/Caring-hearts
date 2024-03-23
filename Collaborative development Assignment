@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+<head>
+<title>To-do-list</title>
+<link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+<h1>to-do-list</h1>
+<form>
+<input type="text" id="new-item" placeholder="Add new item">
+<button type="submit" id="add-btn">Add</button>
+</form>
+<ul id="items"> </ul>
+<script src="app.js"></script>
+</body>
+</html>
