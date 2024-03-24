@@ -49,13 +49,13 @@ footer {
 */
 /* styles.css */
 
-/* Body */
+
 body {
     background-color: #f0f0f0; /* Light gray */
     color: #333333; /* Dark gray */
 }
 
-/* Header */
+
 header {
     background-color: #007bff; /* Blue */
     color: #ffffff; /* White */
@@ -83,7 +83,7 @@ nav ul li a:hover {
     text-decoration: underline;
 }
 
-/* Main Content */
+
 main {
     padding: 20px;
 }
@@ -92,7 +92,7 @@ section {
     margin-bottom: 40px;
 }
 
-/* Footer */
+/
 footer {
     background-color: #333333; /* Dark gray */
     color: #ffffff; /* White */
