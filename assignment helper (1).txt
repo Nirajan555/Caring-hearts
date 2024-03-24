@@ -1,0 +1,46 @@
+#TABLE FOR CARER
+
+
+CREATE TABLE Carer (
+    CareID INT PRIMARY KEY,
+    First_Name VARCHAR(15),
+    Last_Name VARCHAR(15),
+    Address VARCHAR(30),
+    Email VARCHAR(30),
+    Contact_Num INT(10)
+    Salary INT,
+    Date_of_Admission DATE,
+    Department VARCHAR(20),
+    Shift VARCHAR(10),
+    Manager_ID INT,
+    
+    
+);
+
+#TABLE FOR PATIENT
+
+CREATE TABLE Patient (
+    PatientID INT PRIMARY KEY,
+    First_Name VARCHAR(15),
+    Last_Name VARCHAR(15),
+    Address VARCHAR(30),
+    Contact_Number INT,
+    Emergency_Number INT,
+    Relation VARCHAR(10),
+    Medicine_Info VARCHAR(40),
+    Treatment_Needed VARCHAR,
+    
+    
+);
+
+
+#TABLE FOR WORK
+
+CREATE TABLE Care_Assignment(
+    AssignmentID INT PRIMARY KEY,
+    CarerID INT,
+    PatientID INT,
+    Assignment_Date DATETIME,
+    FOREIGN KEY (CarerID) REFERENCES Carer(CareID),
+    FOREIGN KEY (PatientID) REFERENCES Patient(PatientID)
+);
