@@ -1,0 +1,62 @@
+<!-- ======= Services Section ======= -->
+    <section id="services" class="services">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Services</h2>
+          <p>Services provided by caring hearts for senior and elderly healthcare are tailored to address the unique needs and challenges associated with aging and senior care. </p>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="icon-box">
+              <div class="icon"><i class="fas fa-heartbeat"></i></div>
+              <h4><a href="">Regular Checkup</a></h4>
+              <p>Important to schedule regular checkups even if you're feeling well,as they can help detect health problems early when they're most treatable.</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
+            <div class="icon-box">
+              <div class="icon"><i class="fas fa-pills"></i></div>
+              <h4><a href="">Medicine</a></h4>
+              <p>Our comprehensive medicine guide offers valuable information on prescription medications, over-the-counter remedies, supplements, and more.Trust us to provide reliable and up-to-date information to support your well-being."</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
+            <div class="icon-box">
+              <div class="icon"><i class="fas fa-hospital-user"></i></div>
+              <h4><a href="">Physiotherapy</a></h4>
+              <p>We recognize the importance of fostering a supportive and compassionate environment for our elderly patients, and our physiotherapy services are delivered with the utmost care, respect, and professionalism</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
+            <div class="icon-box">
+              <div class="icon"><i class="fas fa-dna"></i></div>
+              <h4><a href="">Blood Test</a></h4>
+              <p>It's important to follow any pre-test instructions provided by your healthcare provider, such as fasting before certain tests, to ensure accurate results.</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
+            <div class="icon-box">
+              <div class="icon"><i class="fas fa-wheelchair"></i></div>
+              <h4><a href="">Disabled Person</a></h4>
+              <p>Our goal is to provide holistic, person-centered care that honors the individuality, dignity, and autonomy of disabled seniors. With our dedicated team of professionals, we're committed to helping disabled seniors live life to the fullest and enjoy meaningful connections, activities, and experiences.</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
+            <div class="icon-box">
+              <div class="icon"><i class="fas fa-notes-medical"></i></div>
+              <h4><a href="">Home health care</a></h4>
+              <p>Committed to provide home-based health care services for seniors & elderly people who are homebound.We offers home visits by doctors,nursesand other healthcare professionals for assessments,treatmemts and monitoring.</p>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Services Section -->
