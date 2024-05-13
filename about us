@@ -1,0 +1,40 @@
+    <!-- ======= About Section ======= -->
+      <div class="container" data-aos="fade-up">
+        <div class="section-title">
+          <h2>About Us</h2>
+          <p>From Preventative screenings to specialized treatments.
+            Our experienced caring hearts team is dedicated to support your journey to better health.</P>
+          <p>Explore our resources,connect with our compassionate professionals,and empower yourself to love your best life.
+            Your health matters to us-let us be your trusted partners on the path to wellness. </p>
+        </div>
+
+    <div class="row">
+
+    <div class="col-xl-7 col-lg-6 icon-boxes d-flex flex-column align-items-stretch
+     justify-content-center py-5 px-lg-5">
+            
+            <div class="icon-box">
+              <div class="icon"><i class="bx bx-heart"></i></div>
+              <h4 class="title"><a href="">HEALTH IS WEALTH</a></h4>
+              <p class="description">Connect with us and discover the power of good health.</p>
+            </div>
+
+            <div class="icon-box">
+              <div class="icon"><i class="bx bx-health"></i></div>
+              <h4 class="title"><a href="">EMERGENCY</a></h4>
+              <p class="description">Urgent care when you need it most. Our emergency services are available 24/7,providing immediate medical attention
+			  for all your urgent health needs. Trust us to br your partner in emergency care, delivering expert support whenever you need it.  </p>
+            </div>
+
+            <div class="icon-box">
+              <div class="icon"><i class="bx bx-help-circle"></i></div>
+    <section id="about" class="about">
+              <h4 class="title"><a href="">SERVICES </a></h4>
+              <p class="description">Depending on individual needs and preferences,senoirs and their families can access a comnbination of our services to support their overall health and happiness in their golden years.</p>
+            </div>
+            
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End About Section -->
